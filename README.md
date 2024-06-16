@@ -49,6 +49,8 @@ This Discord bot interacts with users by responding to messages using a Large La
 
 ## Usage
 
+*Please note that this bot is supposed to be used on a dedicated server as it treats all users as same and responds to all texts. To make it respond to certain prefix you can use `command_prefix` or a simple `if-startswith`.*
+
 1. Add the bot to your Discord server.
 
 2. Start the bot:
